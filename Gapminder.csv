@@ -1,0 +1,295 @@
+Year,region,gdp_growth
+1965,America,0.035452697
+1965,East Asia & Pacific,0.031715549
+1965,Europe & Central Asia,0.03748475
+1965,Middle East & North Africa,0.101318351
+1965,South Asia,0.004251797
+1965,Sub-Saharan Africa,0.028298127
+1966,America,0.027328599
+1966,East Asia & Pacific,0.025784412
+1966,Europe & Central Asia,0.042275447
+1966,Middle East & North Africa,0.072114638
+1966,South Asia,0.008583984
+1966,Sub-Saharan Africa,0.023523605
+1967,America,0.024724655
+1967,East Asia & Pacific,0.015076868
+1967,Europe & Central Asia,0.031298059
+1967,Middle East & North Africa,0.103751429
+1967,South Asia,0.012050325
+1967,Sub-Saharan Africa,0.02221411
+1968,America,0.025860538
+1968,East Asia & Pacific,0.031689798
+1968,Europe & Central Asia,0.038230196
+1968,Middle East & North Africa,0.12798159
+1968,South Asia,0.024480678
+1968,Sub-Saharan Africa,0.011999254
+1969,America,0.029199186
+1969,East Asia & Pacific,0.042686289
+1969,Europe & Central Asia,0.04292123
+1969,Middle East & North Africa,0.092091813
+1969,South Asia,0.017598737
+1969,Sub-Saharan Africa,0.024853393
+1970,America,0.026752647
+1970,East Asia & Pacific,0.052882155
+1970,Europe & Central Asia,0.051732268
+1970,Middle East & North Africa,0.064035416
+1970,South Asia,0.023458939
+1970,Sub-Saharan Africa,0.030996321
+1971,America,0.030520394
+1971,East Asia & Pacific,0.027192046
+1971,Europe & Central Asia,0.044587977
+1971,Middle East & North Africa,0.036830826
+1971,South Asia,-0.026360369
+1971,Sub-Saharan Africa,0.025810101
+1972,America,0.027847928
+1972,East Asia & Pacific,0.023536048
+1972,Europe & Central Asia,0.030589019
+1972,Middle East & North Africa,0.055087577
+1972,South Asia,-0.029050013
+1972,Sub-Saharan Africa,0.01539854
+1973,America,0.041675466
+1973,East Asia & Pacific,0.06356611
+1973,Europe & Central Asia,0.053832882
+1973,Middle East & North Africa,0.026640199
+1973,South Asia,0.013121853
+1973,Sub-Saharan Africa,0.01080912
+1974,America,0.034257877
+1974,East Asia & Pacific,0.047578084
+1974,Europe & Central Asia,0.0374378
+1974,Middle East & North Africa,0.187559547
+1974,South Asia,0.02886649
+1974,Sub-Saharan Africa,0.045801234
+1975,America,-0.00204486
+1975,East Asia & Pacific,-0.005353307
+1975,Europe & Central Asia,0.001512919
+1975,Middle East & North Africa,-0.001119444
+1975,South Asia,-0.011941279
+1975,Sub-Saharan Africa,-0.008062517
+1976,America,0.031420317
+1976,East Asia & Pacific,0.037752158
+1976,Europe & Central Asia,0.037769405
+1976,Middle East & North Africa,0.058516562
+1976,South Asia,0.016707514
+1976,Sub-Saharan Africa,0.020775673
+1977,America,0.037397233
+1977,East Asia & Pacific,0.026242405
+1977,Europe & Central Asia,0.030475356
+1977,Middle East & North Africa,0.020494817
+1977,South Asia,0.017374293
+1977,Sub-Saharan Africa,0.009954013
+1978,America,0.039297489
+1978,East Asia & Pacific,0.044782719
+1978,Europe & Central Asia,0.026073387
+1978,Middle East & North Africa,0.006053201
+1978,South Asia,0.049742686
+1978,Sub-Saharan Africa,0.008035406
+1979,America,0.027343061
+1979,East Asia & Pacific,0.037057593
+1979,Europe & Central Asia,0.022883959
+1979,Middle East & North Africa,0.061256946
+1979,South Asia,0.008576885
+1979,Sub-Saharan Africa,0.009811888
+1980,America,0.021729936
+1980,East Asia & Pacific,-0.012308766
+1980,Europe & Central Asia,0.014176154
+1980,Middle East & North Africa,0.033266836
+1980,South Asia,0.032735407
+1980,Sub-Saharan Africa,-0.004120752
+1981,America,0.005420498
+1981,East Asia & Pacific,0.01375127
+1981,Europe & Central Asia,0.004808722
+1981,Middle East & North Africa,-0.043098729
+1981,South Asia,0.048541881
+1981,Sub-Saharan Africa,-0.003568315
+1982,America,-0.036570438
+1982,East Asia & Pacific,0.021990272
+1982,Europe & Central Asia,0.008627556
+1982,Middle East & North Africa,-0.04471357
+1982,South Asia,0.024991588
+1982,Sub-Saharan Africa,0.003870958
+1983,America,-0.021580661
+1983,East Asia & Pacific,0.02931999
+1983,Europe & Central Asia,0.013570946
+1983,Middle East & North Africa,-0.011893342
+1983,South Asia,0.040889266
+1983,Sub-Saharan Africa,-0.016339781
+1984,America,0.011965031
+1984,East Asia & Pacific,0.036203626
+1984,Europe & Central Asia,0.019158597
+1984,Middle East & North Africa,0.022753183
+1984,South Asia,0.052666277
+1984,Sub-Saharan Africa,-0.020737392
+1985,America,0.008098423
+1985,East Asia & Pacific,0.005276251
+1985,Europe & Central Asia,0.01159892
+1985,Middle East & North Africa,-0.012360888
+1985,South Asia,0.030596783
+1985,Sub-Saharan Africa,0.002036981
+1986,America,0.017587357
+1986,East Asia & Pacific,0.029904449
+1986,Europe & Central Asia,0.02648855
+1986,Middle East & North Africa,-0.0419527
+1986,South Asia,0.04625654
+1986,Sub-Saharan Africa,-0.00384131
+1987,America,0.024133307
+1987,East Asia & Pacific,0.028047442
+1987,Europe & Central Asia,0.013030251
+1987,Middle East & North Africa,0.002428838
+1987,South Asia,0.029053027
+1987,Sub-Saharan Africa,-0.00065224
+1988,America,0.012708756
+1988,East Asia & Pacific,0.027563266
+1988,Europe & Central Asia,0.02088929
+1988,Middle East & North Africa,-0.032685997
+1988,South Asia,0.02170458
+1988,Sub-Saharan Africa,0.010902297
+1989,America,0.010499666
+1989,East Asia & Pacific,0.020039416
+1989,Europe & Central Asia,0.013296659
+1989,Middle East & North Africa,-0.029892025
+1989,South Asia,0.021244185
+1989,Sub-Saharan Africa,0.014138146
+1990,America,0.001159628
+1990,East Asia & Pacific,0.033697346
+1990,Europe & Central Asia,-0.023199354
+1990,Middle East & North Africa,0.044845535
+1990,South Asia,0.046592354
+1990,Sub-Saharan Africa,-0.023745189
+1991,America,0.013646795
+1991,East Asia & Pacific,0.020165963
+1991,Europe & Central Asia,-0.052918909
+1991,Middle East & North Africa,-0.034748578
+1991,South Asia,0.015828566
+1991,Sub-Saharan Africa,-0.004490604
+1992,America,0.009239377
+1992,East Asia & Pacific,0.03590852
+1992,Europe & Central Asia,-0.087997458
+1992,Middle East & North Africa,0.136749573
+1992,South Asia,0.021905145
+1992,Sub-Saharan Africa,-0.017709428
+1993,America,0.010840759
+1993,East Asia & Pacific,0.035158541
+1993,Europe & Central Asia,-0.050894436
+1993,Middle East & North Africa,0.031578418
+1993,South Asia,0.005288444
+1993,Sub-Saharan Africa,-0.016659855
+1994,America,0.021504454
+1994,East Asia & Pacific,0.040725615
+1994,Europe & Central Asia,-0.012676637
+1994,Middle East & North Africa,0.018901243
+1994,South Asia,0.021200803
+1994,Sub-Saharan Africa,-0.017494874
+1995,America,0.014326422
+1995,East Asia & Pacific,0.03530139
+1995,Europe & Central Asia,0.023186053
+1995,Middle East & North Africa,0.013028337
+1995,South Asia,0.060218018
+1995,Sub-Saharan Africa,0.02354254
+1996,America,0.01837079
+1996,East Asia & Pacific,0.031894923
+1996,Europe & Central Asia,0.047458837
+1996,Middle East & North Africa,0.028928661
+1996,South Asia,0.036720767
+1996,Sub-Saharan Africa,0.040054847
+1997,America,0.032463939
+1997,East Asia & Pacific,0.013969115
+1997,Europe & Central Asia,0.040106285
+1997,Middle East & North Africa,0.038600887
+1997,South Asia,0.032886459
+1997,Sub-Saharan Africa,0.067633661
+1998,America,0.019801211
+1998,East Asia & Pacific,-0.00978457
+1998,Europe & Central Asia,0.039317315
+1998,Middle East & North Africa,0.04344709
+1998,South Asia,0.031103533
+1998,Sub-Saharan Africa,0.014439331
+1999,America,0.007726317
+1999,East Asia & Pacific,0.007382832
+1999,Europe & Central Asia,0.024604513
+1999,Middle East & North Africa,0.011599502
+1999,South Asia,0.036541685
+1999,Sub-Saharan Africa,0.012283978
+2000,America,0.016615904
+2000,East Asia & Pacific,0.033411304
+2000,Europe & Central Asia,0.049794843
+2000,Middle East & North Africa,0.01123838
+2000,South Asia,0.028291659
+2000,Sub-Saharan Africa,0.010435856
+2001,America,0.000233752
+2001,East Asia & Pacific,0.011730827
+2001,Europe & Central Asia,0.034414427
+2001,Middle East & North Africa,-0.000788958
+2001,South Asia,0.006622651
+2001,Sub-Saharan Africa,0.029824079
+2002,America,0.000513603
+2002,East Asia & Pacific,0.01714637
+2002,Europe & Central Asia,0.0362664
+2002,Middle East & North Africa,-0.001295819
+2002,South Asia,0.050939332
+2002,Sub-Saharan Africa,0.019166904
+2003,America,0.020144066
+2003,East Asia & Pacific,0.03279936
+2003,Europe & Central Asia,0.040238624
+2003,Middle East & North Africa,0.009425629
+2003,South Asia,0.049772167
+2003,Sub-Saharan Africa,0.008973662
+2004,America,0.035677041
+2004,East Asia & Pacific,0.043776374
+2004,Europe & Central Asia,0.052682319
+2004,Middle East & North Africa,0.060758198
+2004,South Asia,0.044094769
+2004,Sub-Saharan Africa,0.037809696
+2005,America,0.035299922
+2005,East Asia & Pacific,0.035318052
+2005,Europe & Central Asia,0.051142693
+2005,Middle East & North Africa,0.022857453
+2005,South Asia,0.035035893
+2005,Sub-Saharan Africa,0.029761694
+2006,America,0.036854612
+2006,East Asia & Pacific,0.035096553
+2006,Europe & Central Asia,0.060994142
+2006,Middle East & North Africa,0.025913587
+2006,South Asia,0.063011483
+2006,Sub-Saharan Africa,0.030689389
+2007,America,0.0377387
+2007,East Asia & Pacific,0.046254581
+2007,Europe & Central Asia,0.060691199
+2007,Middle East & North Africa,0.019486727
+2007,South Asia,0.074977414
+2007,Sub-Saharan Africa,0.036695429
+2008,America,0.018264015
+2008,East Asia & Pacific,0.020636836
+2008,Europe & Central Asia,0.0272244
+2008,Middle East & North Africa,0.013700448
+2008,South Asia,0.037305555
+2008,Sub-Saharan Africa,0.020296342
+2009,America,-0.025073011
+2009,East Asia & Pacific,-0.003090096
+2009,Europe & Central Asia,-0.045470584
+2009,Middle East & North Africa,0.008283949
+2009,South Asia,0.041239831
+2009,Sub-Saharan Africa,0.00463335
+2010,America,0.016611136
+2010,East Asia & Pacific,0.050610132
+2010,Europe & Central Asia,0.02474239
+2010,Middle East & North Africa,0.014364742
+2010,South Asia,0.055566084
+2010,Sub-Saharan Africa,0.029802065
+2011,America,0.028642832
+2011,East Asia & Pacific,0.04528375
+2011,Europe & Central Asia,0.027851453
+2011,Middle East & North Africa,-0.017843554
+2011,South Asia,0.049038592
+2011,Sub-Saharan Africa,0.024311855
+2012,America,0.016900341
+2012,East Asia & Pacific,0.031751999
+2012,Europe & Central Asia,0.007333648
+2012,Middle East & North Africa,0.069825582
+2012,South Asia,0.04766956
+2012,Sub-Saharan Africa,0.019672228
+2013,America,0.01811527
+2013,East Asia & Pacific,0.025164747
+2013,Europe & Central Asia,0.015353043
+2013,Middle East & North Africa,-0.011188344
+2013,South Asia,0.034502022
+2013,Sub-Saharan Africa,0.027750898
